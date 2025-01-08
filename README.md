@@ -1,4 +1,4 @@
-<h1 style="color:Red;">These are the Instructions To follow</h1>
+<h1 style="color:blue;text-align:center;">These are the Instructions To follow</h1>
 
 Apex handler
 UseCase : This use case works for Amount Distribution for each Service the customer selected for there Vehicle.
