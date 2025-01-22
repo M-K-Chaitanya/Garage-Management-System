@@ -49,3 +49,9 @@ In this project , trigger is called whenever the particular records sum exceed t
 
 
 ![Screenshot 2025-01-08 150819](https://github.com/user-attachments/assets/e5032187-63f8-4ecf-a7c1-1e0284f529c8)
+
+
+
+<h1>Demo Video </h1>
+https://youtu.be/Yi_To5UHawA?si=e9J7G1V7MOpOuMU8
+
